@@ -1,1 +1,0 @@
-Full rich content of SWARNAM-UNIVERSAL.md as previously drafted... [I would put the long version here]
