@@ -1,0 +1,1 @@
+Template that tells any model how to use the MCP server correctly for tool calls.
